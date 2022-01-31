@@ -1,0 +1,9 @@
+body{
+    background-color: black;
+    color: red;
+    font-family: 'Playball', cursive;
+}
+.heading{
+    width: 100%;
+    text-align: center;
+}
